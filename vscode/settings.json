@@ -1,0 +1,15 @@
+{
+    "git.confirmSync": false,
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": -1,
+    "editor.renderWhitespace": "all",
+    "explorer.confirmDragAndDrop": false,
+    "files.exclude": {
+        "**/node_modules": true,
+        "**/.idea": true,
+        "**/.vscode": true,
+        "**/*.class": true
+    },
+    "git.autofetch": true,
+    "window.titleBarStyle": "custom"
+}
