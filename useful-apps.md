@@ -14,3 +14,6 @@ Plank
 
 ## Night mode, eye strain reduction
 Redshift
+
+
+`preload`
