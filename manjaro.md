@@ -1,7 +1,7 @@
 ### Packages to be installed
 
 ```
-sudo pacman -Syyu chromium guake virtualbox thunderbird
+sudo pacman -Syyu chromium guake virtualbox thunderbird gpaste
 ```
 
 For development
