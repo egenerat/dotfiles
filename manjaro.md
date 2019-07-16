@@ -28,3 +28,7 @@ https://wiki.manjaro.org/index.php?title=Pacman-mirrors
 ```
 sudo pacman-mirrors --fasttrack && sudo pacman -Syyu
 ```
+
+### Set environment variable
+`/etc/environment` or `/etc/profile` (for shell only)
+
