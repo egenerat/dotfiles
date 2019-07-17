@@ -25,3 +25,8 @@ For transmission
 ```
 sudo ufw allow in 51413/tcp
 ```
+
+For mail
+```
+sudo ufw allow out 993,587/tcp
+```
