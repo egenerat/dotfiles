@@ -30,3 +30,8 @@ For mail
 ```
 sudo ufw allow out 993,587/tcp
 ```
+
+For SSH (including Git/SSH)
+```
+sudo ufw allow out 22/tcp
+```
