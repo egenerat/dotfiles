@@ -54,3 +54,9 @@ sensors
 ```
 
 Different hardware information with `hardinfo` app.
+
+### Enable and start a service
+```
+sudo systemctl enable <service>
+sudo systemctl start <service>
+```
