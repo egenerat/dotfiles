@@ -1,17 +1,14 @@
-### Packages to be installed
+## Packages to be installed
+
+### General
 
 ```
 sudo pacman -Syyu chromium guake virtualbox thunderbird gpaste bash-completion
 ```
 
-For development
+### For development
 ```
 sudo pacman -Syyu code nodejs meld
-```
-
-To create bootable USB drive
-```
-sudo pacman -Syyu imagewriter
 ```
 
 Intellij:
@@ -23,13 +20,19 @@ then
 flatpak install com.jetbrains.IntelliJ-IDEA-Community.flatpakref
 ```
 
-Music
+To create bootable USB drive
+```
+sudo pacman -Syyu imagewriter
+```
+
+
+### Music
 ```
 flatpak install spotify
 ```
 
 
-Work
+### Work
 [Citrix Workspace App](https://www.citrix.com/en-gb/downloads/workspace-app/)
 
 
