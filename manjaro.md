@@ -9,6 +9,11 @@ For development
 sudo pacman -Syyu code nodejs meld
 ```
 
+To create bootable USB drive
+```
+sudo pacman -Syyu imagewriter
+```
+
 Intellij:
 Download flatpakref files
 https://flathub.org/apps/details/com.jetbrains.IntelliJ-IDEA-Community
