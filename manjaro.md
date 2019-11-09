@@ -31,6 +31,11 @@ sudo pacman -Syyu imagewriter
 flatpak install spotify
 ```
 
+### Photo editing
+```
+sudo pacman -Syyu gimp
+```
+
 
 ### Work
 [Citrix Workspace App](https://www.citrix.com/en-gb/downloads/workspace-app/)
