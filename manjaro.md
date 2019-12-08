@@ -1,3 +1,5 @@
+# Manjaro
+
 ## Packages to be installed
 
 ### General
@@ -72,4 +74,29 @@ Different hardware information with `hardinfo` app.
 ```
 sudo systemctl enable <service>
 sudo systemctl start <service>
+```
+
+## Packages maintenance
+
+### pacman
+
+#### Update all packages
+
+```
+sudo pacman -Syu
+```
+
+#### Remove package
+
+```
+sudo pacman -R <package>
+```
+
+### Flatpak
+
+Flatpak does not require to be run as root.
+#### Update all packages
+
+```
+flatpak update
 ```
