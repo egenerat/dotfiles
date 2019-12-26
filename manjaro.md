@@ -80,6 +80,7 @@ sudo systemctl start <service>
 
 ### pacman
 
+Full list of commands [here](https://wiki.manjaro.org/index.php?title=Pacman_Overview)
 #### Update all packages
 
 ```
