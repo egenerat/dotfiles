@@ -22,7 +22,16 @@ then
 flatpak install com.jetbrains.IntelliJ-IDEA-Community.flatpakref
 ```
 
-To create bootable USB drive
+#### Java
+https://wiki.archlinux.org/index.php/Java
+
+```
+sudo paccman -Syyu jdk11-openjdk
+archlinux-java status
+sudo archlinux-java set java-11-openjdk
+```
+
+### To create bootable USB drive
 ```
 sudo pacman -Syyu imagewriter
 ```
@@ -43,7 +52,7 @@ sudo pacman -Syyu gimp
 [Citrix Workspace App](https://www.citrix.com/en-gb/downloads/workspace-app/)
 
 
-### Remove the manjaro home page in chromium:
+### Remove the manjaro home page in chromium
 ```
 sudo pacman -R manjaro-browser-settings
 ```
