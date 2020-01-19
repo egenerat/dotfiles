@@ -10,7 +10,7 @@ sudo pacman -Syyu chromium guake virtualbox thunderbird gpaste bash-completion
 
 ### For development
 ```
-sudo pacman -Syyu code nodejs meld jdk11-openjdk
+sudo pacman -Syyu code nodejs meld jdk11-openjdk docker
 ```
 
 Intellij:
