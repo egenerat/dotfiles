@@ -26,7 +26,7 @@ flatpak install com.jetbrains.IntelliJ-IDEA-Community.flatpakref
 https://wiki.archlinux.org/index.php/Java
 
 ```
-sudo paccman -Syyu jdk11-openjdk
+sudo pacman -Syyu jdk11-openjdk
 archlinux-java status
 sudo archlinux-java set java-11-openjdk
 ```
