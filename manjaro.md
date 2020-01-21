@@ -31,6 +31,11 @@ archlinux-java status
 sudo archlinux-java set java-11-openjdk
 ```
 
+#### Latex
+```
+sudo pacman -Syyu texlive-core
+```
+
 ### To create bootable USB drive
 ```
 sudo pacman -Syyu imagewriter
@@ -51,6 +56,7 @@ sudo pacman -Syyu gimp
 ### Work
 [Citrix Workspace App](https://www.citrix.com/en-gb/downloads/workspace-app/)
 
+For the SSL/TLS certificates, see https://wiki.archlinux.org/index.php/Citrix#TLS/SSL_Certificates
 
 ### Remove the manjaro home page in chromium
 ```
