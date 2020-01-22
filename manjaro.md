@@ -21,6 +21,10 @@ then
 ```
 flatpak install com.jetbrains.IntelliJ-IDEA-Community.flatpakref
 ```
+or
+```
+sudo pacman -Syyu intellij-idea-community-edition
+```
 
 #### Java
 https://wiki.archlinux.org/index.php/Java
@@ -65,7 +69,7 @@ sudo pacman -R manjaro-browser-settings
 
 ### Remove unnecessary apps
 ```
-sudo pacman -R empathy gnome-maps hexchat gnome-contacts
+sudo pacman -R empathy gnome-maps hexchat gnome-contacts stoken uget hplip evolution gparted
 ```
 
 ### Update mirrorlist with the fastest mirrors
