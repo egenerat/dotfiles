@@ -24,6 +24,8 @@ flatpak install com.jetbrains.IntelliJ-IDEA-Community.flatpakref
 or
 ```
 sudo pacman -Syyu intellij-idea-community-edition
+# Optional, font for developers: https://www.jetbrains.com/lp/mono/
+sudo pacman -Syyu ttf-jetbrains-mono
 ```
 
 #### Java
