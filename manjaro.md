@@ -8,6 +8,8 @@
 sudo pacman -Syyu chromium guake virtualbox thunderbird gpaste bash-completion
 ```
 
+`guake` can be replaced by `tilix` (split window feature)
+
 ### For development
 ```
 sudo pacman -Syyu code nodejs meld jdk11-openjdk docker
