@@ -17,3 +17,7 @@ Redshift
 
 
 `preload`
+
+
+Crop PDFs
+http://briss.sourceforge.net/
