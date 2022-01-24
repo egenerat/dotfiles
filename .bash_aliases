@@ -6,7 +6,7 @@
 alias cl='cd ~/git_clones'
 
 # Git
-alias cleangone="git branch -D `gone | awk '{print $1}'`"
+# alias cleangone="git branch -D `gone | awk '{print $1}'`"
 alias ga='git add'
 alias gap='git commit --amend --no-edit && git push -f'
 alias gb='git branch -vv'
