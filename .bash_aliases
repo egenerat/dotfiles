@@ -9,7 +9,7 @@ alias cl='cd ~/git_clones'
 # alias cleangone="git branch -D `gone | awk '{print $1}'`"
 alias ga='git add'
 alias gap='git commit --amend --no-edit && git push -f'
-alias gb='git branch -vv'
+alias gb='git branch -vv --sort=committerdate'
 alias gc='git commit'
 alias gco='git checkout'
 alias gcom='git checkout main'
@@ -31,3 +31,4 @@ alias gsh='git stash'
 alias gshp='git stash pop'
 
 alias vi=vim
+alias c=code .
