@@ -31,4 +31,4 @@ alias gsh='git stash'
 alias gshp='git stash pop'
 
 alias vi=vim
-alias c=code .
+alias c="code ."
